@@ -1,0 +1,12 @@
+body{
+    width: 500px;
+    margin: auto;
+}
+header{
+    text-align: center;
+    color: white;
+    background-color: dodgerblue;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
